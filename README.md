@@ -1,2 +1,4 @@
 # deadline
-A webapp implemented with React/Redux
+A webapp implemented with React
+
+https://feliun.github.io/deadline/
