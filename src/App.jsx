@@ -6,7 +6,7 @@ class App extends Component {
 	constructor(props) {
 		super(props);
 		this.state = {
-			deadline: '25 December, 2019',
+			deadline: '25 December, 2039',
 			newDeadline: '',
 		};
 	}
